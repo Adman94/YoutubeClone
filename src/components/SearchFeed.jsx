@@ -24,7 +24,7 @@ const SearchFeed = () => {
         ml={{ sm: "100px" }}
       >
         Search Results for
-        <span style={{ color: "#FC1503" }}>{searchTerm}</span> videos
+        <span style={{ color: "#FC1503" }}> "{searchTerm}"</span> videos
       </Typography>
       <Box display="flex">
         <Box sm={{ mr: { sm: "100px" } }} />
