@@ -1,4 +1,3 @@
-import { Category } from "@mui/icons-material";
 import { Stack } from "@mui/material";
 import { categories } from "../utils/constants";
 
